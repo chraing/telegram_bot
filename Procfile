@@ -1,1 +1,1 @@
-web: python teleg_hiveos.py
+worker: python teleg_hiveos.py
